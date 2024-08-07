@@ -1,2 +1,2 @@
 # QAgh
- Primeiro repositório 
+ Primeiro repositório de automatização
